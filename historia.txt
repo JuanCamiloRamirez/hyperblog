@@ -9,4 +9,4 @@ de el carmen
 
 con Meli sera mejor
 
-aprendiendo
+aprendiendo a hacer algo diferente con git
